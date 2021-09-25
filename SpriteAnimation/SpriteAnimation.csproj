@@ -87,59 +87,25 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Sprites\Walk_d\0.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_d\1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_d\2.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_d\3.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <EmbeddedResource Include="Sprites\Walk_d\0.png" />
+    <EmbeddedResource Include="Sprites\Walk_d\1.png" />
+    <EmbeddedResource Include="Sprites\Walk_d\2.png" />
+    <EmbeddedResource Include="Sprites\Walk_d\3.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Sprites\Laugh\0.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Laugh\1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Laugh\2.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\red_eyes.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_l\0.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_l\1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_r\0.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_r\1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_up\0.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_up\1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_up\2.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\Walk_up\3.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sprites\wide_eyes.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <EmbeddedResource Include="Sprites\Laugh\0.png" />
+    <EmbeddedResource Include="Sprites\Laugh\1.png" />
+    <EmbeddedResource Include="Sprites\Laugh\2.png" />
+    <EmbeddedResource Include="Sprites\red_eyes.png" />
+    <EmbeddedResource Include="Sprites\Walk_l\0.png" />
+    <EmbeddedResource Include="Sprites\Walk_l\1.png" />
+    <EmbeddedResource Include="Sprites\Walk_r\0.png" />
+    <EmbeddedResource Include="Sprites\Walk_r\1.png" />
+    <EmbeddedResource Include="Sprites\Walk_up\0.png" />
+    <EmbeddedResource Include="Sprites\Walk_up\1.png" />
+    <EmbeddedResource Include="Sprites\Walk_up\2.png" />
+    <EmbeddedResource Include="Sprites\Walk_up\3.png" />
+    <EmbeddedResource Include="Sprites\wide_eyes.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
