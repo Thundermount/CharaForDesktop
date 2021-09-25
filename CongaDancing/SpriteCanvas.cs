@@ -99,7 +99,6 @@ namespace SpriteCanvas
         {
             if (image == null) return;
 
-            _buffer = new Bitmap(2000, 2000, PixelFormat.Format32bppArgb);
 
             float ratio = (float)image.Width / (float)image.Height;
 
